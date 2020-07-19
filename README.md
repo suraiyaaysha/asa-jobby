@@ -1,4 +1,7 @@
 # asa-jobby
+```
+A Vue js based Blog Application. We also used Vuex.
+```
 
 ## Project setup
 ```
